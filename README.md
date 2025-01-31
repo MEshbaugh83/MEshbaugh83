@@ -1,4 +1,4 @@
-## Hi my name is Matthew 👋
+## Hi my name is Matthew <a href=”https://linkedin.com/in/matthew-eshbaugh”>👋
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

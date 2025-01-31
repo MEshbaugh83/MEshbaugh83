@@ -1,4 +1,4 @@
-## Hi my name is Matthew, an IT Professional
+## Hi my name is Matthew, an IT Professional [linkedin]: https://www.linkedin.com/in/matthew-eshbaugh/
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
